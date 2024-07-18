@@ -2,7 +2,7 @@
 
 ## Description
 
-Toundji Library is a server-side application built with Nest.js and TypeScript. It provides a framework for creating efficient and scalable Node.js applications.
+Library is the web service for a library application. Designed in nestjs and typeorm, it includes basic book and user management functionalities.
 
 ## Installation
 
