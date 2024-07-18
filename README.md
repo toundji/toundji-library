@@ -68,7 +68,7 @@ http://localhost:3000/docs
 This link will provide you with an interactive Swagger interface to explore and test your API endpoints.
 
 ### Notes
-. Ensure your application is actively running (`npm run start or equivalent`) before accessing the Swagger documentation.
-. Adjust the URL (`localhost` and `3000`) in the example to match your specific environment configuration.
-. Swagger provides a user-friendly interface for API documentation and testing, making it easier to understand and utilize your API endpoints.
+- Ensure your application is actively running (`npm run start or equivalent`) before accessing the Swagger documentation.
+- Adjust the URL (`localhost` and `3000`) in the example to match your specific environment configuration.
+- Swagger provides a user-friendly interface for API documentation and testing, making it easier to understand and utilize your API endpoints.
 
