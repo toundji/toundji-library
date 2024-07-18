@@ -30,11 +30,11 @@ cp .env.example .env
 Fill in the `.env` file with the appropriate values, replacing `****` with your specific configuration.
 
 
-## Configuration
+## Execution
 
- . Development: `npm run start`
- . Watch mode:`npm run start:dev`
- . Production: `npm run start:prod`
+- Development: `npm run start`
+- Watch mode:`npm run start:dev`
+- Production: `npm run start:prod`
 
 
 
